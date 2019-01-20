@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content=" ">
+    <meta name="description" content="/">
+    <meta name="keywords" content="blog, economics,personal">
+    
+    <meta property="og:site_name" content="Smooth as consumption">
+    <meta property="og:title" content="
+  Information and Politics III - Smooth as consumption
+">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="/posts/information_and_politics_3/">
+    <meta property="og:image" content="/">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="/posts/information_and_politics_3/">
+    <meta name="twitter:image" content="/">
+
+    <base href="/">
+    <title>
+  Information and Politics III - Smooth as consumption
+</title>
+
+    <link rel="canonical" href="/posts/information_and_politics_3/">
+    
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/logos/avatar.png" sizes="32x32"/>
+
+    
+
+    <meta name="generator" content="Hugo 0.53" />
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">Smooth as consumption</a>
+    <input type="checkbox" id="menu-control"/>
+    <label class="menu-mobile  float-right " for="menu-control">
+      <span class="btn-mobile  float-right ">&#9776;</span>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/about">About</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/projects">Projects</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/posts">Blog</a>
+            </li>
+          
+        
+        
+      </ul>
+    </label>
+  </section>
+  
+
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+  <article>
+    <header>
+      <h1 class="title">Information and Politics III</h1>
+      <h2 class="date">January 6, 2017</h2>
+
+      
+    </header>
+
+    
+
+
+<p>The answers for the previous blog post.</p>
+<ol style="list-style-type: decimal">
+<li>In the last period, tomorrow, there will be no more elections since the world ends. Go to the Career Concerns problem of the first post in this series and it is trivial to see that the optimal <em>x</em> for the politician to choose is 0 due to <em>R = 0</em> (no value of re-election). When</li>
+</ol>
+<p><span class="math display">\[
+x = 0 \Longleftrightarrow r = b 
+\]</span></p>
+<p>and</p>
+<p><span class="math display">\[
+g = e^\eta  x = 0 
+\]</span></p>
+<p>Since <em>g</em> tomorrow is going to be 0, it doesn’t matter the value of <span class="math inline">\(\eta\)</span> tomorrow, the politician’s ability/productivity/talent does not matter, the result will still be that no public goods are provided tomorrow. This is true for any politician that holds office in the last period. Due to this, the probability of being elected in the second election is not only the same for both politicians, <span class="math inline">\(\frac{1}{2}\)</span> but ex-ante known. Because of this, the Career Concerns problem becomes (probability does no longer depend on what he spends today and some expectations, treated as given since the politician can’t determine what people think, on public good expenditure):</p>
+<p><span class="math display">\[
+\max_{x_t} \left \{ b - x_t + \frac{1}{2}*R \right \}
+\]</span></p>
+<p>Since the probability is ex-ante given, he can’t favor his re-election chances by spending more on <em>x</em> today (everyone knows that in the second election they will elect a complete thief) and thus, sets <em>x = 0</em>, which implies that all of the budget today is allocated to rents: <em>b = r</em>. The model depends on some kind of <a href="https://en.wikipedia.org/wiki/Folk_theorem_(game_theory)">Folk theorem</a>.</p>
+<ol start="2" style="list-style-type: decimal">
+<li>There must be a positive bias in the charisma utility of electing a challenger. This was defined as:</li>
+</ol>
+<p><span class="math display">\[
+\xi_i^C - \xi_i^I =  \Psi_t + \psi_t^i + a
+\]</span> where <em>a = 0</em>, <span class="math inline">\(\Psi_t\)</span> follows a uniform distribution with mean 0 and density <span class="math inline">\(\Phi\)</span> and <span class="math inline">\(\psi_t^i\)</span> follows a uniform distribution of mean 0 and density <span class="math inline">\(\phi\)</span>. If we want to introduce a bias in favor of the challenger, motivated by his populist character, set $a ^{++} $. One will find that for large values of <span class="math inline">\(a\)</span> the challenger always or almost always wins, thus politicians only hold one mandate and so the incumbent doesn’t assign budgetary resources to provide for public goods (<em>x = 0</em> and <em>r = b</em> &amp; <em>g=0</em>).</p>
+<p>A voter <em>i</em>, will vote for the incumbent, only if:</p>
+<p><span class="math display">\[
+\Delta_i \geq \Psi_t + \psi_t^i + a
+\]</span></p>
+<p>Public goods <em>g</em> and aggregate popularity <span class="math inline">\(\Psi_t\)</span> are realized (we can take the aggregate popularity shock as-if realized since the individual shock is independent of preferences across voters). The share of members of group <em>j</em> who vote for the incumbent is:</p>
+<p><span class="math display">\[
+\begin{align}
+        v_t^j(g_t, \Psi_t, a) &amp;= \theta_j * Pr(\psi_t^i \leq \Delta_1 - \Psi_t - a) + (1-\theta_j)*Pr(\psi_t^i \leq \Delta_0 - \Phi_t - a)\\
+        &amp;= \theta_j \left \{ \frac{1}{2} + \phi [ \Delta_1(g_t) - \Psi_t - a ] \right \} + (1-\theta_j) \left \{ \frac{1}{2} + \phi [\Delta_0 - \Psi_t - a]\right \}\\
+        &amp;= \frac{1}{2} + \phi[\theta_j \Delta_1(g) + (1-\theta_j)\Delta_0 - \Psi_t - a]
+\end{align}
+\]</span></p>
+<p>As <em>a</em> grows, specifically when it reaches the point where <span class="math inline">\(a = \frac{1}{2}\phi + \theta_j \Delta_1(g_t) + (1-\theta_j)\Delta_0 - \Psi_t\)</span> the probability of the <em>i</em>th voter voting for the incumbent tends to 0:</p>
+<p><span class="math display">\[
+v_t^i (g_t, \Psi_t, a) \longrightarrow 0 
+\]</span></p>
+<p>Thus, the probability of re-election when the populist effect is incredibly strong is:</p>
+<p><span class="math display">\[
+\pi(g_t) = Pr \left( \sum_{j=1}^J \lambda_j * 0 \geq \frac{1}{2} \right) = 0
+\]</span></p>
+<p>From the incumbents perspective:</p>
+<p><span class="math display">\[
+\pi(x_t) = \mathbb{E}[\pi(g_t) | x_t] = 0
+\]</span></p>
+<p>So, the Career Concern problem becomes:</p>
+<p><span class="math display">\[
+\max_{x_t} \left \{ b - x_t  + R * 0 \right \}
+\]</span></p>
+<p>Thus, the optimal investment in public goods is <em>x = 0</em>, so <em>r = b</em>. The share of rent extraction is given by:</p>
+<p><span class="math display">\[
+\rho \equiv \frac{r}{b} = 1
+\]</span></p>
+<ol start="3" style="list-style-type: decimal">
+<li>The incumbents Career Concerns problem is:</li>
+</ol>
+<p><span class="math display">\[
+\max_{x_t} = \left \{ b - x_t + R* \left(  \frac{1}{2} + \bar{\theta} \Phi [ln(x_t) - ln(\bar{x})] \right) \right \} 
+\]</span></p>
+<p>Substituting in the bias (since now, the incumbent sets <span class="math inline">\(\bar{x}\)</span> instead of taking it as given) and operating, we find that $ (x_t) = 1$. The optimization problem colapses to:</p>
+<p><span class="math display">\[
+\max_{x_t} = \left \{b - x_t + R*1 \right \}
+\]</span></p>
+<p>Which yields an optimal <em>x = 0</em> (<em>x</em> can’t be negative), and thus <em>r = b</em>. The net present value of rents under this bias is:</p>
+<p><span class="math display">\[
+NPV_{bias} = \delta (b + \delta *b + \delta^2*b + \delta^3*b + ... ) = \delta b \sum_{t = 0}^\infty \delta^t r = b*\frac{\delta}{1-\delta}; \ \ \delta \in (0,1)
+\]</span></p>
+<p>In the standard model, the NPV of rents is the rent today <em>r</em> plus the expected value of re-election, <em>R</em>. In the model we find that:</p>
+<p><span class="math display">\[
+R = \frac{2\delta}{2-\delta} *r
+\]</span></p>
+<p><span class="math display">\[
+r = b \left(1 + \bar{\theta}\Phi\frac{2\delta}{2-\delta}\right)^{-1}
+\]</span></p>
+<p>So:</p>
+<p><span class="math display">\[
+NPV_{standard} = b \left(1 + \bar{\theta}\Phi\frac{2\delta}{2-\delta}\right)^{-1} + \frac{2\delta}{2-\delta} b \left(1 + \bar{\theta}\Phi\frac{2\delta}{2-\delta}\right)^{-1}
+\]</span></p>
+<p>It is always the case that <span class="math inline">\(NPV_{bias} &gt; NPV_{standard}\)</span>. The rents the incumbent would be willing to forgo to obtain such bias are at most:</p>
+<p><span class="math display">\[
+NPV_{bias} - NPV_{standard} &gt; 0
+\]</span></p>
+<ol start="4" style="list-style-type: decimal">
+<li>We found that rent extraction is a constant fraction of the budget:</li>
+</ol>
+<p><span class="math display">\[
+\rho(\theta) = \frac{r}{b} = \left( 1 + \theta \frac{2\delta}{2-\delta} \Phi \right)^{-1}
+\]</span></p>
+<p>It is not difficult to see that this function is decreasing and strictly convex for $ (0,1) $. Then, let region <em>l</em> have a fraction <span class="math inline">\(\theta_l\)</span> of informed voters and let there be any heterogeneity in $_l $ across regions. Then, by the previous properties described we know that by Jensen’s inequality we have that:</p>
+<p><span class="math display">\[
+\rho \left( \frac{1}{L} \sum_{l=1}^L \theta_l \right) &lt; \frac{1}{L} \sum_{=1}^L \rho(\theta_l)
+\]</span></p>
+<p>Which implies that when there is information heterogeneity across regions, a centralized government would extract a lower rent share than multiple, decentralized, governments.</p>
+<p>The only problem with this is that there is some evidence of lower corruption in higher levels of government compared to local or federal ones and there is evidence of the informed voters mechanism, but there is no evidence or tests regarding this decreasing and convex properties of the function.</p>
+<p>Obviously, this properties did not come up in an investigation, but where constructed by choosing appropriately the form of other aspects of the model (distributions, shocks, utility functions, public good production function and so on), so it all seems a bit ad-hoc, specially when no economic intuition is provided for this centralization effect.</p>
+<p>In future posts I’ll try to provide an economic intuition about this, by adding wages to the politician, not only rents, and what happens when in a centralized government a politician receives the sum of wages of all of the politicians in the decentralization case.</p>
+
+  </article>
+
+  <br/>
+
+  
+      <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "@llucpuigcodina" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  
+  
+</section>
+
+      </div>
+      
+        <footer class="footer">
+  <section class="container">
+    
+     © 2018  
+
+  </section>
+</footer>
+
+      
+    </main>
+
+    
+
+  <script src="/js/app.js"></script>
+  
+  <script>
+  (function($) {
+    $(function() {
+      $('#privateTrigger').on('click', function() {
+        $('.private').slideToggle();
+        $('#privateTriggerText').text(" ");
+      });
+    });
+   })(jQuery);
+  </script>
+  
+  </body>
+</html>

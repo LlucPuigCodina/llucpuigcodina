@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Smooth as consumption</title>
+    <link>/categories/announcements/</link>
+    <description>Recent content in Announcements on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Up and running</title>
+      <link>/posts/up_and_running/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/up_and_running/</guid>
+      <description>Hi there! This is my first post for my personal webpage. Stay tuned to see more of them coming.
+Let’s start with an incredible drawing from Akira. Why? Because Akira is awesome, that’s why. For those that might not know Akira, here they have a FAQ about the manga [SPOILERS], and I highly recommend reading it, aside from watching the animated movie.
+AkiraAs mentioned in the About section of my website, this website is based on the Jekyll/GitHub static site generator.</description>
+    </item>
+    
+  </channel>
+</rss>

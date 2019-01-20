@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information and Politics on Smooth as consumption</title>
+    <link>/tags/information-and-politics/</link>
+    <description>Recent content in Information and Politics on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/information-and-politics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information and Politics III</title>
+      <link>/posts/information_and_politics_3/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information_and_politics_3/</guid>
+      <description>The answers for the previous blog post.
+In the last period, tomorrow, there will be no more elections since the world ends. Go to the Career Concerns problem of the first post in this series and it is trivial to see that the optimal x for the politician to choose is 0 due to R = 0 (no value of re-election). When\[x = 0 \Longleftrightarrow r = b \]</description>
+    </item>
+    
+    <item>
+      <title>Information and Politics II</title>
+      <link>/posts/information_and_politics_2/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information_and_politics_2/</guid>
+      <description>The mechanism in the model of the last post, through which informed voters deter political rent extraction, depends on some critical assumptions. In this post I’ll leave some questions for the reader that explore this critical assumptions, and how the mechanism breaks down when they don’t hold, plus an implication for political centralization/decentralization. In another post I’ll upload the answers.
+An assumption for the effects of information on political accountability we found is that the politicians can be infinitely re-elected.</description>
+    </item>
+    
+    <item>
+      <title>Information and Politics I</title>
+      <link>/posts/information_and_politics_1/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information_and_politics_1/</guid>
+      <description>As political economy is a topic I find particularly interesting, I’ll present the step-by-step “derivations” for a simplified version (one region and one public good) of first lemma in Boffa, Federico, Amedeo Piolatto, and Giacomo AM Ponzetto. “Political centralization and government accountability.” The Quarterly Journal of Economics 131.1 (2016): 381-422. Disclaimer: some of this derivations come from a beamer presentation on the paper, given by Ponzetto.
+In this model, the question we want to answer is: How does a more informed public affect political rent extraction?</description>
+    </item>
+    
+  </channel>
+</rss>

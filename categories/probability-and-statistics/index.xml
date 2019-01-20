@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probability and Statistics on Smooth as consumption</title>
+    <link>/categories/probability-and-statistics/</link>
+    <description>Recent content in Probability and Statistics on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/probability-and-statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Extension of the Mafia Game Analysis</title>
+      <link>/posts/mafia_game/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/mafia_game/</guid>
+      <description>Abstract: This note extends the existing game theoretical and probabilistic analysis of the mafia game to the (one) kamikaze variation from it’s most simple version, n citizens and one mobster. Both the probability of the mafia winning the game and the optimal stoppage rule for the kamikaze are calculated.
+FULL TEXT: See in “Projects”
+</description>
+    </item>
+    
+    <item>
+      <title>Time series Econometrics on the go</title>
+      <link>/posts/tseonthego/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tseonthego/</guid>
+      <description>A Shiny app for easy and on the go univariate time series econometrics. No installation required, just upload your data and start forecasting after a few clicks!
+The models available are:
+Exponential Smoothing (ETS) modelAutoregressive iterated moving average (ARIMA) modelCheck it out at: https://llucpuigcodina.shinyapps.io/TSEonthego/ and https://github.com/LlucPuigCodina/TSEonthego
+</description>
+    </item>
+    
+  </channel>
+</rss>

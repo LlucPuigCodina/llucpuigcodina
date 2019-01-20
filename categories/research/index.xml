@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Smooth as consumption</title>
+    <link>/categories/research/</link>
+    <description>Recent content in Research on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Extension of the Mafia Game Analysis</title>
+      <link>/posts/mafia_game/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/mafia_game/</guid>
+      <description>Abstract: This note extends the existing game theoretical and probabilistic analysis of the mafia game to the (one) kamikaze variation from it’s most simple version, n citizens and one mobster. Both the probability of the mafia winning the game and the optimal stoppage rule for the kamikaze are calculated.
+FULL TEXT: See in “Projects”
+</description>
+    </item>
+    
+    <item>
+      <title>Puzzles and the Behavioural New Keynesian Model</title>
+      <link>/posts/determinacy_gabaix_new_keynesian_model/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_gabaix_new_keynesian_model/</guid>
+      <description>Herein I conduct similar policy experiments to those of Carlstrom et al. (2012) with a Behavioural New Keynesian (BNK) model, instead of the standard New Keynesian model (only) or a sticky information model. The BNK model does a good job of solving previous issues with the standard model (as already noted by Gabaix).
+All of this work is already, explicitly or implicitly, in the cited articles, so I wouldn’t claim to show anything new.</description>
+    </item>
+    
+    <item>
+      <title>Incidencia distributiva del gasto en formación universitaria en Cataluña</title>
+      <link>/posts/enric_despesa_universitaria/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/enric_despesa_universitaria/</guid>
+      <description>¿Como afecta, sólo en sus efectos más inmediatos, el gasto en formación universitaria a la distribución de renta de los hogares en Cataluña?
+Enric, con quien tuve el placer de coincidir durante mis estudios en la Universidad Pompeu Fabra, se formula esta pregunta en su trabajo de final de grado. También, le agradezco enormemente que compartiera sus datos conmigo, facilitando enormemente producir este post.
+Los resultados se pueden resumir en las dos primeras cifras de a Tabla 7, el coeficiente de Gini de la renta disponible, 0.</description>
+    </item>
+    
+    <item>
+      <title>Determinacy in a New Keynesian Model under a Money Growth Rule</title>
+      <link>/posts/determinacy_new_keynesian_model/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_new_keynesian_model/</guid>
+      <description>This note derives the analytical conditions for determinacy in a canonical New Keynesian model under an exogenous path for the growth rate of the money supply. Under cash-when-I’m-done timing the model is always determinate while indeterminacy can arise with cash-in-advance timing.
+FULL TEXT: See in “Projects”
+Update: Now you can also find my presentation of the paper at the IV Navarra-Basque Country Macroeconomics Workshop.
+</description>
+    </item>
+    
+  </channel>
+</rss>

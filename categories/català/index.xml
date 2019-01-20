@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Català on Smooth as consumption</title>
+    <link>/categories/catal%C3%A0/</link>
+    <description>Recent content in Català on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/catal%C3%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estratègia òptima en exàmens de recuperació</title>
+      <link>/posts/examen_recu/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/examen_recu/</guid>
+      <description>Farà poc vaig posar un examen de recuperació en una assignatura que tractava d’una introducció a la teoria de jocs i estadística.
+L’examen era tot tipus test, amb 4 possibles respostes i 40 preguntes, on les preguntes incorrectes resten.
+A continuació podeu veure l’histograma de les notes, juntament amb l’histograma del nombre de preguntes correctes, incorrectes i en blanc.
+===========================================Statistic N Mean St. Dev. Min Max -------------------------------------------Correctes 98 17.</description>
+    </item>
+    
+    <item>
+      <title>La universitat gratuïta es ajudar els rics</title>
+      <link>/posts/universitat_gratuita_2/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/universitat_gratuita_2/</guid>
+      <description>Recentment s’ha publicat un article escrit per dos companys i jo mateix al diari Ara. El podeu llegir aquí.
+També va aparèixer a la versió impresa del 11 de Gener de 2017.</description>
+    </item>
+    
+  </channel>
+</rss>

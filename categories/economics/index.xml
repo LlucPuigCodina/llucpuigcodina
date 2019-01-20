@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on Smooth as consumption</title>
+    <link>/categories/economics/</link>
+    <description>Recent content in Economics on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estratègia òptima en exàmens de recuperació</title>
+      <link>/posts/examen_recu/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/examen_recu/</guid>
+      <description>Farà poc vaig posar un examen de recuperació en una assignatura que tractava d’una introducció a la teoria de jocs i estadística.
+L’examen era tot tipus test, amb 4 possibles respostes i 40 preguntes, on les preguntes incorrectes resten.
+A continuació podeu veure l’histograma de les notes, juntament amb l’histograma del nombre de preguntes correctes, incorrectes i en blanc.
+===========================================Statistic N Mean St. Dev. Min Max -------------------------------------------Correctes 98 17.</description>
+    </item>
+    
+    <item>
+      <title>Time series Econometrics on the go</title>
+      <link>/posts/tseonthego/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tseonthego/</guid>
+      <description>A Shiny app for easy and on the go univariate time series econometrics. No installation required, just upload your data and start forecasting after a few clicks!
+The models available are:
+Exponential Smoothing (ETS) modelAutoregressive iterated moving average (ARIMA) modelCheck it out at: https://llucpuigcodina.shinyapps.io/TSEonthego/ and https://github.com/LlucPuigCodina/TSEonthego
+</description>
+    </item>
+    
+    <item>
+      <title>Puzzles and the Behavioural New Keynesian Model</title>
+      <link>/posts/determinacy_gabaix_new_keynesian_model/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_gabaix_new_keynesian_model/</guid>
+      <description>Herein I conduct similar policy experiments to those of Carlstrom et al. (2012) with a Behavioural New Keynesian (BNK) model, instead of the standard New Keynesian model (only) or a sticky information model. The BNK model does a good job of solving previous issues with the standard model (as already noted by Gabaix).
+All of this work is already, explicitly or implicitly, in the cited articles, so I wouldn’t claim to show anything new.</description>
+    </item>
+    
+    <item>
+      <title>Incidencia distributiva del gasto en formación universitaria en Cataluña</title>
+      <link>/posts/enric_despesa_universitaria/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/enric_despesa_universitaria/</guid>
+      <description>¿Como afecta, sólo en sus efectos más inmediatos, el gasto en formación universitaria a la distribución de renta de los hogares en Cataluña?
+Enric, con quien tuve el placer de coincidir durante mis estudios en la Universidad Pompeu Fabra, se formula esta pregunta en su trabajo de final de grado. También, le agradezco enormemente que compartiera sus datos conmigo, facilitando enormemente producir este post.
+Los resultados se pueden resumir en las dos primeras cifras de a Tabla 7, el coeficiente de Gini de la renta disponible, 0.</description>
+    </item>
+    
+    <item>
+      <title>Determinacy in a New Keynesian Model under a Money Growth Rule</title>
+      <link>/posts/determinacy_new_keynesian_model/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_new_keynesian_model/</guid>
+      <description>This note derives the analytical conditions for determinacy in a canonical New Keynesian model under an exogenous path for the growth rate of the money supply. Under cash-when-I’m-done timing the model is always determinate while indeterminacy can arise with cash-in-advance timing.
+FULL TEXT: See in “Projects”
+Update: Now you can also find my presentation of the paper at the IV Navarra-Basque Country Macroeconomics Workshop.
+</description>
+    </item>
+    
+    <item>
+      <title>Renta básica y teoría del consumo</title>
+      <link>/posts/renta_basica_teoria_consumo/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/renta_basica_teoria_consumo/</guid>
+      <description>¿Si hay experimentos de renta básica en los que no caen fuertemente las horas trabajadas, podemos inferir lo mismo de una posible aplicación real de esta?
+Renta básica y sus experimentos: una primera interpretaciónPrimero de todo, ¿qué es la renta básica? La renta básica es un ingreso abonado por una comunidad política a todos sus miembros de manera individual y sin ningún tipo de condicionalidad. Algunos, con razón, lo llamarían Kalise para todos.</description>
+    </item>
+    
+    <item>
+      <title>Information and Politics III</title>
+      <link>/posts/information_and_politics_3/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information_and_politics_3/</guid>
+      <description>The answers for the previous blog post.
+In the last period, tomorrow, there will be no more elections since the world ends. Go to the Career Concerns problem of the first post in this series and it is trivial to see that the optimal x for the politician to choose is 0 due to R = 0 (no value of re-election). When\[x = 0 \Longleftrightarrow r = b \]</description>
+    </item>
+    
+    <item>
+      <title>Information and Politics II</title>
+      <link>/posts/information_and_politics_2/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information_and_politics_2/</guid>
+      <description>The mechanism in the model of the last post, through which informed voters deter political rent extraction, depends on some critical assumptions. In this post I’ll leave some questions for the reader that explore this critical assumptions, and how the mechanism breaks down when they don’t hold, plus an implication for political centralization/decentralization. In another post I’ll upload the answers.
+An assumption for the effects of information on political accountability we found is that the politicians can be infinitely re-elected.</description>
+    </item>
+    
+    <item>
+      <title>La universitat gratuïta es ajudar els rics</title>
+      <link>/posts/universitat_gratuita_2/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/universitat_gratuita_2/</guid>
+      <description>Recentment s’ha publicat un article escrit per dos companys i jo mateix al diari Ara. El podeu llegir aquí.
+També va aparèixer a la versió impresa del 11 de Gener de 2017.</description>
+    </item>
+    
+    <item>
+      <title>Universitat gratuïta, un dret?</title>
+      <link>/posts/universitat_gratuita_1/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/universitat_gratuita_1/</guid>
+      <description>¿No tenen totes les persones un dret a a l’educació? ¿Tenim dret a rebre una formació universitària? ¿Existeixen eixes obligacions morals?
+Em faig aquestes preguntes ja que aquestes són les realment importants, les de fons, les que determinen la visió del que ha de ser en la societat. Per a un anàlisis més moderat i pragmàtic recomano al lector fer una ullada a Universitat gratuïta: subvencionant els rics?, tot i que si considerem la formació universitària un dret, tal com pot ser la llibertat d’associació, el vot o el dret a socors l’anàlisi pragmàtic no l’afecta gaire.</description>
+    </item>
+    
+    <item>
+      <title>Information and Politics I</title>
+      <link>/posts/information_and_politics_1/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/information_and_politics_1/</guid>
+      <description>As political economy is a topic I find particularly interesting, I’ll present the step-by-step “derivations” for a simplified version (one region and one public good) of first lemma in Boffa, Federico, Amedeo Piolatto, and Giacomo AM Ponzetto. “Political centralization and government accountability.” The Quarterly Journal of Economics 131.1 (2016): 381-422. Disclaimer: some of this derivations come from a beamer presentation on the paper, given by Ponzetto.
+In this model, the question we want to answer is: How does a more informed public affect political rent extraction?</description>
+    </item>
+    
+  </channel>
+</rss>

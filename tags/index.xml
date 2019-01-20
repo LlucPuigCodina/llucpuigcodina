@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Smooth as consumption</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information and Politics</title>
+      <link>/tags/information-and-politics/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/information-and-politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renta Básica</title>
+      <link>/tags/renta-b%C3%A1sica/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/renta-b%C3%A1sica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universitat Gratuïta</title>
+      <link>/tags/universitat-gratu%C3%AFta/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/universitat-gratu%C3%AFta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Violence</title>
+      <link>/tags/violence/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/violence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
