@@ -3,6 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/economics/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/english/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/pagan_suggestions/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/catal%C3%A0/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/data-analysis/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/examen_recu/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +63,12 @@
   <url>
     <loc>/posts/mafia_game/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/probability-and-statistics/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,113 +102,14 @@
   </url>
   
   <url>
-    <loc>/posts/renta_basica_teoria_consumo/</loc>
-    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/information_and_politics_3/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/information_and_politics_2/</loc>
+    <loc>/categories/castellano/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/universitat_gratuita_2/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/universitat_gratuita_1/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/information_and_politics_1/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/guion_de_un_cortometraje_contra_la_violencia_de_genero/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/up_and_running/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/announcements/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/castellano/</loc>
-    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/catal%C3%A0/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/cinema/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/data-analysis/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/economics/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/english/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/information-and-politics/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -159,36 +119,19 @@
   </url>
   
   <url>
-    <loc>/categories/probability-and-statistics/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>/posts/universitat_gratuita_1/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/renta-b%C3%A1sica/</loc>
-    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/research/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,9 +142,37 @@
   </url>
   
   <url>
+    <loc>/categories/cinema/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/guion_de_un_cortometraje_contra_la_violencia_de_genero/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/violence/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/pages/site/</loc>
   </url>
   
 </urlset>
