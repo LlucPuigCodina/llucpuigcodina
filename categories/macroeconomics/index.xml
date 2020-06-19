@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macroeconomics on Smooth as consumption</title>
+    <link>/categories/macroeconomics/</link>
+    <description>Recent content in Macroeconomics on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/macroeconomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puzzles and the Behavioural New Keynesian Model</title>
+      <link>/posts/determinacy_gabaix_new_keynesian_model/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_gabaix_new_keynesian_model/</guid>
+      <description>Herein I conduct similar policy experiments to those of Carlstrom et al. (2012) with a Behavioural New Keynesian (BNK) model, instead of the standard New Keynesian model (only) or a sticky information model. The BNK model does a good job of solving previous issues with the standard model (as already noted by Gabaix).
+All of this work is already, explicitly or implicitly, in the cited articles, so I wouldn’t claim to show anything new.</description>
+    </item>
+    
+    <item>
+      <title>Determinacy in a New Keynesian Model under a Money Growth Rule</title>
+      <link>/posts/determinacy_new_keynesian_model/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_new_keynesian_model/</guid>
+      <description>body {text-align: justify}This note derives the analytical conditions for determinacy in a canonical New Keynesian model under an exogenous path for the growth rate of the money supply. Under cash-when-I’m-done timing the model is always determinate while indeterminacy can arise with cash-in-advance timing.
+FULL TEXT: See in “Projects”
+Update: Now you can also find my presentation of the paper at the IV Navarra-Basque Country Macroeconomics Workshop.</description>
+    </item>
+    
+  </channel>
+</rss>

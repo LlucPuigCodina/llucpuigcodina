@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spanish on Smooth as consumption</title>
+    <link>/categories/spanish/</link>
+    <description>Recent content in Spanish on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/spanish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Incidencia distributiva del gasto en formación universitaria en Cataluña</title>
+      <link>/posts/enric_despesa_universitaria/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/enric_despesa_universitaria/</guid>
+      <description>body {text-align: justify}¿Como afecta, sólo en sus efectos más inmediatos, el gasto en formación universitaria a la distribución de renta de los hogares en Cataluña?
+Enric, con quien tuve el placer de coincidir durante mis estudios en la Universidad Pompeu Fabra, se formula esta pregunta en su trabajo de final de grado. También, le agradezco enormemente que compartiera sus datos conmigo, facilitando enormemente producir este post.</description>
+    </item>
+    
+    <item>
+      <title>Guión de un cortometraje contra la violencia de género</title>
+      <link>/posts/corto_viogen/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/corto_viogen/</guid>
+      <description>body {text-align: justify}Me gustaría compartir con todos los lectores la realización de un guión que escribí hace ya un tiempo para un concurso de cortos cinematográficos contra la violencia de género. La producción final, cabe decir que dista mucho del guión original que presenté y las modificaciones implicaron mejores muy substanciales. Aquí pueden encontrar la resolución del concurso.
+Otra mención que debo hacer es al segundo guión premiado, cuyo efecto principal es el transmitir las lesiones que sufre la mujer maltratada a través de la teleoperadora del 016.</description>
+    </item>
+    
+  </channel>
+</rss>

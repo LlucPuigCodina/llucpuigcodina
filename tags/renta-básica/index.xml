@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>renta básica on Smooth as consumption</title>
     <link>/tags/renta-b%C3%A1sica/</link>
     <description>Recent content in renta básica on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/renta-b%C3%A1sica/index.xml" rel="self" type="application/rss+xml" />
@@ -17,8 +16,8 @@
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/universitat_gratuita_1/</guid>
-      <description>¿No tenen totes les persones un dret a a l’educació? ¿Tenim dret a rebre una formació universitària? ¿Existeixen eixes obligacions morals?
-Em faig aquestes preguntes ja que aquestes són les realment importants, les de fons, les que determinen la visió del que ha de ser en la societat. Si considerem la formació universitària un dret, tal com pot ser la llibertat d’associació, el vot o el dret a socors hi ha bones raons per donar-li subsidis o costejar a través d’imposts la totalitat del seu cost, tal que sigui gratuïta per a l’usuari.</description>
+      <description>body {text-align: justify}¿No tenen totes les persones un dret a a l’educació? ¿Tenim dret a rebre una formació universitària? ¿Existeixen eixes obligacions morals?
+Em faig aquestes preguntes ja que aquestes són les realment importants, les de fons, les que determinen la visió del que ha de ser en la societat. Per a un anàlisis més moderat i pragmàtic recomano al lector fer una ullada a Universitat gratuïta: subvencionant els rics?</description>
     </item>
     
   </channel>

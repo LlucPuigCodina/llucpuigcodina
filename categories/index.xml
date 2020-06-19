@@ -1,76 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Smooth as consumption</title>
     <link>/categories/</link>
     <description>Recent content in Categories on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Economics</title>
-      <link>/categories/economics/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Econometrics</title>
+      <link>/categories/econometrics/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/economics/</guid>
+      <guid>/categories/econometrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
       <link>/categories/english/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Other</title>
+      <link>/categories/other/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>/categories/research/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Català</title>
-      <link>/categories/catal%C3%A0/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Risk Management</title>
+      <link>/categories/risk-management/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/catal%C3%A0/</guid>
+      <guid>/categories/risk-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data Analysis</title>
-      <link>/categories/data-analysis/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Macroeconomics</title>
+      <link>/categories/macroeconomics/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-analysis/</guid>
+      <guid>/categories/macroeconomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probability and Statistics</title>
-      <link>/categories/probability-and-statistics/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Public Policy</title>
+      <link>/categories/public-policy/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/probability-and-statistics/</guid>
+      <guid>/categories/public-policy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Castellano</title>
-      <link>/categories/castellano/</link>
+      <title>Spanish</title>
+      <link>/categories/spanish/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalan</title>
+      <link>/categories/catalan/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/castellano/</guid>
+      <guid>/categories/catalan/</guid>
       <description></description>
     </item>
     
@@ -80,15 +97,6 @@
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/categories/press/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cinema</title>
-      <link>/categories/cinema/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cinema/</guid>
       <description></description>
     </item>
     

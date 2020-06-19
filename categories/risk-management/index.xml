@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risk Management on Smooth as consumption</title>
+    <link>/categories/risk-management/</link>
+    <description>Recent content in Risk Management on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acerbi &amp; Szekely Unconditional Expected Shortfall Test</title>
+      <link>/posts/expectedshortfalltest/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/expectedshortfalltest/</guid>
+      <description>body {text-align: justify}Python implementation of the Direct Expected Shortfall Test of Acerbi and Szekely (2014).I don’t know of any implementation of such test in Python. The test has been implemented in MatLab. The backtesting of Expected Shortfall has long been a dificult task due to the lack of elicitibility. The test I’ve implemented is the second test of Acerbi and Szekely and it’s full details are in the reference.</description>
+    </item>
+    
+  </channel>
+</rss>

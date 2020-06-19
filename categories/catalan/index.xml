@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catalan on Smooth as consumption</title>
+    <link>/categories/catalan/</link>
+    <description>Recent content in Catalan on Smooth as consumption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/catalan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La universitat gratuïta es ajudar els rics</title>
+      <link>/posts/universitat_gratuita_2/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/universitat_gratuita_2/</guid>
+      <description>body {text-align: justify}Recentment s’ha publicat un article escrit per dos companys i jo mateix al diari Ara. El podeu llegir aquí.
+També va aparèixer a la versió impresa del 11 de Gener de 2017.</description>
+    </item>
+    
+    <item>
+      <title>Universitat gratuïta, un dret?</title>
+      <link>/posts/universitat_gratuita_1/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/universitat_gratuita_1/</guid>
+      <description>body {text-align: justify}¿No tenen totes les persones un dret a a l’educació? ¿Tenim dret a rebre una formació universitària? ¿Existeixen eixes obligacions morals?
+Em faig aquestes preguntes ja que aquestes són les realment importants, les de fons, les que determinen la visió del que ha de ser en la societat. Per a un anàlisis més moderat i pragmàtic recomano al lector fer una ullada a Universitat gratuïta: subvencionant els rics?</description>
+    </item>
+    
+  </channel>
+</rss>

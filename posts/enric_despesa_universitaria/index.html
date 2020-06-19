@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="">
 
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="author" content=" ">
+    <meta name="author" content="Lluc Puig Codina">
     <meta name="description" content="/">
     <meta name="keywords" content="blog, economics,personal">
     
@@ -21,34 +21,33 @@
     <meta name="twitter:site" content="/posts/enric_despesa_universitaria/">
     <meta name="twitter:image" content="/">
 
-    <base href="../../">
+    <base href="/">
     <title>
   Incidencia distributiva del gasto en formación universitaria en Cataluña - Smooth as consumption
 </title>
 
-    <link rel="canonical" href="../../posts/enric_despesa_universitaria/">
+    <link rel="canonical" href="/posts/enric_despesa_universitaria/">
     
     <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
     <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
-    <link rel="stylesheet" href="../../css/style.min.css">
+    <link rel="stylesheet" href="/css/style.min.css">
 
     
 
     
 
-    <link rel="icon" type="image/png" href="../../images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="../../images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/logos/avatar.png" sizes="32x32"/>
 
     
 
-    <meta name="generator" content="Hugo 0.55.6" />
+    <meta name="generator" content="Hugo 0.72.0" />
   </head>
 
   <body class="">
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="../../">Smooth as consumption</a>
+    <a class="navigation-title" href="/">Smooth as consumption</a>
     <input type="checkbox" id="menu-control"/>
     <label class="menu-mobile  float-right " for="menu-control">
       <span class="btn-mobile  float-right ">&#9776;</span>
@@ -56,22 +55,17 @@
         
           
             <li class="navigation-item  align-center ">
-              <a class="navigation-link" href="../../about">About</a>
+              <a class="navigation-link" href="/about/">About</a>
             </li>
           
             <li class="navigation-item  align-center ">
-              <a class="navigation-link" href="../../projects">Projects</a>
+              <a class="navigation-link" href="/projects/">Projects</a>
             </li>
           
             <li class="navigation-item  align-center ">
-              <a class="navigation-link" href="../../posts">Blog</a>
+              <a class="navigation-link" href="/posts/">Blog</a>
             </li>
           
-            <li class="navigation-item  align-center ">
-              <a class="navigation-link" href="../../pages/site">Site</a>
-            </li>
-          
-        
         
       </ul>
     </label>
@@ -115,14 +109,18 @@
     
 
 
-<p>¿Como afecta, solo en sus efectos más inmediatos, el gasto en formación universitaria a la distribución de renta de los hogares en Cataluña?</p>
+<style>
+body {
+text-align: justify}
+</style>
+<p>¿Como afecta, sólo en sus efectos más inmediatos, el gasto en formación universitaria a la distribución de renta de los hogares en Cataluña?</p>
 <p>Enric, con quien tuve el placer de coincidir durante mis estudios en la Universidad Pompeu Fabra, se formula esta pregunta en su <a href="https://www.dropbox.com/s/nynwob1t2hs2nb2/El%20gasto%20p%C3%BAblico%20en%20educaci%C3%B3n%20universitaria%20y%20sus%20efectos%20sobre%20la%20redistribuci%C3%B3n%20de%20la%20renta.pdf?dl=0">trabajo de final de grado</a>. También, le agradezco enormemente que compartiera sus datos conmigo, facilitando enormemente producir este post.</p>
 <p>Los resultados se pueden resumir en las dos primeras cifras de a Tabla 7, el coeficiente de Gini de la renta disponible, 0.3136771, y el coeficiente de Gini de la renta final (con subvención pre-reforma) 0.3144416. Estas cifras, podrían llegar a ser interpretadas como que, tentativamente, el gasto en formación universitaria en Cataluña es regresivo.</p>
-<div id="son-los-resultados-significativos" class="section level3">
+<div id="són-los-resultados-significativos" class="section level3">
 <h3>¿Són los resultados significativos?</h3>
-<p>Uno podría dudar de esa previa interpretación de las dos cifras que doy… al fin y al cabo está intentando documentar la progresividad o regresividad del gasto en formación universitaria a través de sus efectos sobre la distribución de rentas de los hogares, que arroja pequeñas diferencias a su imputación. ¿No podría ser que el resultado sea un artefacto estadístico fruto del azar, de la personas que por suerte (o no) fueron encuestadas, en vez de la población general?</p>
-<p>Bien, lo primero que queremos hacer es obtener la distribución de la diferencia entre el coeficiente de Gini sin las rentas universitarias imputadas y el coeficiente de Gini con las rentas universitarias imputadas. Para esto, sin necesitar conocer demasiadas propiedades detrás de las distribuciones originales, vamos a usar <a href="https://es.wikipedia.org/wiki/Bootstrapping_(estad%C3%ADstica)">bootstrap</a>. Bootstrap es un método que consiste en el muestreo aleatorio con reemplazo, múltiples veces, sobre la muestra original (aleatoria) que tenemos, calculando el estadístico (en este caso la diferencia entre los coeficientes de Gini) para cada muestreo. Su propósito es simular el
-proceso de generación de datos que ocurriría en la realidad con tomar más muestras de la población. Aquí extraemos 1 millón de muestras de la muestra original, lo que resulta con el siguiente histograma (con los correspondientes intervalos de confianza para la media de la distribución):</p>
+<p>Uno podría dudar de esa previa interpretación de las dos cifras que doy… al fin y al cabo esta intentando documentar la progresividad o regresividad del gasto en formación universitaria a través de sus efectos sobre la distribución de rentas de los hogares, que arroja pequeñas diferencias a su imputación. ¿No podría ser que el resultado sea un artefacto estadístico fruto del azar, de la personas que por suerte (o no) fueron encuestadas, en vez de la población general?</p>
+<p>Bien, lo primero que queremos hacer es obtener la distribución de las diferencia entre el coeficiente de Gini sin las rentas universitarias imputadas y el coeficiente de Gini con las rentas universitarias imputadas. Para esto, sin necesitar conocer demasiadas propiedades detrás de las distribuciones originales, vamos a usar bootstrap. Bootstrap es un método que consiste en el muestreo aleatorio con reemplazo, múltiples veces, sobre la muestra original (aleatoria) que tenemos, calculando el estadístico (en este caso la diferencia entre los coeficientes de Gini) para cada muestreo. Su propósito es simular el
+proceso de generación de datos que ocurriría en la realidad con tomar mas muestras de la población. Aquí extraemos 1 millón de muestras de la muestra original, lo que resulta con el siguiente histograma (con los correspondientes intervalos de confianza para la media de la distribución):</p>
 <pre class="r"><code>#This code creates our distribution of the difference in ginis by bootstrapping different homes from the original sample (as many as in the original sample, with replacement). 
 #This code should not be executed if one already has the data, takes a lot of time, so we could load the already computed data.
 
@@ -139,7 +137,7 @@ for(i in 1:R){
   }
 save(diferencia.de.gini, file = &quot;bootdf.RData&quot;)</code></pre>
 <center>
-<img src="../../images/posts/enricunis.png">
+<img src="/images/posts/enricunis.png">
 </center>
 <p>El intervalo de confianza, al 95%, contiene el 0. Por ende, no podemos descartar que la incidencia distributiva del gasto en la formación universitaria fuera neutral. Esto probablemente se deba a la calidad y tamaño de la muestra original (es muy difícil pensar que el gasto se reparte de tal manera que es exactamente neutral).</p>
 </div>
@@ -156,8 +154,7 @@ save(diferencia.de.gini, file = &quot;bootdf.RData&quot;)</code></pre>
       
         <footer class="footer">
   <section class="container">
-    
-     
+    © 2020 · Lluc Puig Codina
 
   </section>
 </footer>
@@ -167,7 +164,7 @@ save(diferencia.de.gini, file = &quot;bootdf.RData&quot;)</code></pre>
 
     
 
-  <script src="../../js/app.js"></script>
+  <script src="/js/app.js"></script>
   
   <script>
   (function($) {

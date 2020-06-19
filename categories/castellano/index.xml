@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Castellano on Smooth as consumption</title>
     <link>/categories/castellano/</link>
     <description>Recent content in Castellano on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/castellano/index.xml" rel="self" type="application/rss+xml" />
@@ -18,17 +17,7 @@
       
       <guid>/posts/universitat_gratuita_1/</guid>
       <description>¿No tenen totes les persones un dret a a l’educació? ¿Tenim dret a rebre una formació universitària? ¿Existeixen eixes obligacions morals?
-Em faig aquestes preguntes ja que aquestes són les realment importants, les de fons, les que determinen la visió del que ha de ser en la societat. Si considerem la formació universitària un dret, tal com pot ser la llibertat d’associació, el vot o el dret a socors hi ha bones raons per donar-li subsidis o costejar a través d’imposts la totalitat del seu cost, tal que sigui gratuïta per a l’usuari.</description>
-    </item>
-    
-    <item>
-      <title>Guión de un cortometraje contra la violencia de género</title>
-      <link>/posts/guion_de_un_cortometraje_contra_la_violencia_de_genero/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/guion_de_un_cortometraje_contra_la_violencia_de_genero/</guid>
-      <description>Me gustaría compartir con todos los lectores la realización de un guión que escribí hace ya un tiempo para un concurso de cortos cinematográficos contra la violencia de género. La producción final, cabe decir que dista mucho del guión original que presenté y las modificaciones implicaron mejores muy substanciales. Aquí pueden encontrar la resolución del concurso.
-Otra mención que debo hacer es al segundo guión premiado, cuyo efecto principal es el transmitir las lesiones que sufre la mujer maltratada a través de la teleoperadora del 016.</description>
+Em faig aquestes preguntes ja que aquestes són les realment importants, les de fons, les que determinen la visió del que ha de ser en la societat. Per a un anàlisis més moderat i pragmàtic recomano al lector fer una ullada a Universitat gratuïta: subvencionant els rics?, tot i que si considerem la formació universitària un dret, tal com pot ser la llibertat d’associació, el vot o el dret a socors l’anàlisi pragmàtic no l’afecta gaire.</description>
     </item>
     
   </channel>
