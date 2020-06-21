@@ -5,10 +5,19 @@
     <link>/categories/public-policy/</link>
     <description>Recent content in Public Policy on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/public-policy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Growth-at-Risk IMF Tool</title>
+      <link>/posts/growth_at_risk/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/growth_at_risk/</guid>
+      <description>body {text-align: justify}The International Monetary Fund (IMF) has been using Growth-at-Risk, a macro-econometric tool developed by them to assess risks to economic growth, in several article IV country reports (Albania, Portugal and Singapore 2018), Chapter 2 of the IMF Global Financial Conditions Report since October 2017 and so on. The tool build from the AER April 2019 Vulnerable Growth paper. I have several disagreements about the statistical procedures used and the interpretation of the results from the AER paper, which you can read here in my working papers.</description>
+    </item>
     
     <item>
       <title>Incidencia distributiva del gasto en formación universitaria en Cataluña</title>

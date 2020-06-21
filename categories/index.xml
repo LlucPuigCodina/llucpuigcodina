@@ -5,7 +5,7 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Econometrics</title>
       <link>/categories/econometrics/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/econometrics/</guid>
       <description></description>
@@ -22,9 +22,45 @@
     <item>
       <title>English</title>
       <link>/categories/english/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroeconomics</title>
+      <link>/categories/macroeconomics/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/macroeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Policy</title>
+      <link>/categories/public-policy/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>/categories/risk-management/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/risk-management/</guid>
       <description></description>
     </item>
     
@@ -34,42 +70,6 @@
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/categories/research/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Management</title>
-      <link>/categories/risk-management/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/risk-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macroeconomics</title>
-      <link>/categories/macroeconomics/</link>
-      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/macroeconomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Policy</title>
-      <link>/categories/public-policy/</link>
-      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/public-policy/</guid>
       <description></description>
     </item>
     

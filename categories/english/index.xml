@@ -5,10 +5,29 @@
     <link>/categories/english/</link>
     <description>Recent content in English on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/english/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Growth-at-Risk IMF Tool</title>
+      <link>/posts/growth_at_risk/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/growth_at_risk/</guid>
+      <description>body {text-align: justify}The International Monetary Fund (IMF) has been using Growth-at-Risk, a macro-econometric tool developed by them to assess risks to economic growth, in several article IV country reports (Albania, Portugal and Singapore 2018), Chapter 2 of the IMF Global Financial Conditions Report since October 2017 and so on. The tool build from the AER April 2019 Vulnerable Growth paper. I have several disagreements about the statistical procedures used and the interpretation of the results from the AER paper, which you can read here in my working papers.</description>
+    </item>
+    
+    <item>
+      <title>Tests for correct specification of conditional densities</title>
+      <link>/posts/rossi_cond_density_tests/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rossi_cond_density_tests/</guid>
+      <description>body {text-align: justify}I have implemented the statistical tests of Rossi and Sekhposyan (2019) in R. You can find the codes in the following Github repo. Two tests, a Kolmogorov-Smirnov test and an Cràmer-von Mises test, are implemented to assess the correct specification of rolling window conditional distribution out-of-sample forecasts, one and multiple steps ahead.
+Thew hole idea of the test is the following: let \(X\) be a random variable with cdf \(F_X\) (with well defined \(F_X^{-1}\)).</description>
+    </item>
     
     <item>
       <title>Acerbi &amp; Szekely Unconditional Expected Shortfall Test</title>
