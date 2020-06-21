@@ -113,7 +113,7 @@
 body {
 text-align: justify}
 </style>
-<p>The International Monetary Fund (IMF) has been using <em>Growth-at-Risk</em>, a macro-econometric tool developed by them to assess risks to economic growth, in several article IV country reports (Albania, Portugal and Singapore 2018), Chapter 2 of the IMF Global Financial Conditions Report since October 2017 and so on. The tool build from the AER April 2019 <em>Vulnerable Growth paper</em>. I have several disagreements about the statistical procedures used and the interpretation of the results from the AER paper, which you can <a href="/projects">read here in my working papers</a>.</p>
+<p>The International Monetary Fund (IMF) has been using <em>Growth-at-Risk</em>, a macro-econometric tool developed by them to assess risks to economic growth, in several article IV country reports (Albania, Portugal and Singapore 2018), Chapter 2 of the IMF Global Financial Conditions Report since October 2017 and so on. The is build taking the methodology developed in the AER April 2019 paper <em>Vulnerable Growth</em>. I have several disagreements about the statistical procedures used and the interpretation of the results in the AER paper, which you can <a href="/projects">read here in my working papers</a>.</p>
 <center>
 <figure>
 <img src="/images/posts/imf_logo.png" width="200" height="200">
@@ -313,7 +313,7 @@ Q4.2014
 </table>
 </center>
 <p><img src="/posts/growth_at_risk_files/figure-html/unnamed-chunk-4-1.png" width="672" style="display: block; margin: auto;" /></p>
-<p>As we can see, all constrained distributions put a higher and substantial weight to values arround the center of the distribution compated to unconstrained distributions. This is even limited by the fact that in the AER paper degrees of freedom are not allowed to be larger than 30. Now that we have analyzed the changes, why did the authors of the tool make this conscious choice? I believe that as the original MatLab routine incorporated a grid search for the degrees of freedom that took quite some time, and that Python is not a very fast language, the authors opted to drop this computationally costly grid search. Python is intended to be the back-end for a Growth-at-Risk Excel plugin.</p>
+<p>As we can see, all constrained distributions put a higher weight to values around the center of the distribution compared to unconstrained distributions. This is even limited by the fact that in the AER paper degrees of freedom are not allowed to be larger than 30. Now that we have analyzed the changes, why did the authors of the tool make this conscious choice? I believe that as the original MatLab routine incorporated a grid search for the degrees of freedom that took quite some time, and that Python is not a very fast language, the authors opted to drop this computationally costly grid search and set the degrees of freedom to 2. Python is intended to be the back-end for a Growth-at-Risk Excel plugin.</p>
 <hr />
 <p>Note: Even if the graphs in blue (unconstrained) don’t seem, visually, to exactly match the AER Figure 8, the printed parameters of the distributions are identical to those found in the replication codes.</p>
 <hr />
