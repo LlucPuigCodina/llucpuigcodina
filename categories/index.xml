@@ -5,10 +5,37 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public Policy</title>
+      <link>/categories/public-policy/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish</title>
+      <link>/categories/spanish/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/spanish/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Econometrics</title>
@@ -38,24 +65,6 @@
     </item>
     
     <item>
-      <title>Public Policy</title>
-      <link>/categories/public-policy/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/public-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/categories/research/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Risk Management</title>
       <link>/categories/risk-management/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
@@ -70,15 +79,6 @@
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spanish</title>
-      <link>/categories/spanish/</link>
-      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/spanish/</guid>
       <description></description>
     </item>
     

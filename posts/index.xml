@@ -5,10 +5,19 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Smooth as consumption</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon y los guardianes digitales</title>
+      <link>/posts/amazon_network_externalities/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/amazon_network_externalities/</guid>
+      <description>body {text-align: justify}El 22/08/2020 La Vaguardia publicaba un artículo por Marc Realp, actual Director de la Autoritat Catalana de la Competència (ACC), sobre el papel de Amazon y otros gigantes digitales que se erigen como guardianes del mercado digital. Recomiendo visitar la web de la ACC y echar un vistazo a sus informes que versan sobre temas como los taxis, la venta minorista de medicamentos, hospitales privados, servicios funerarios, etc.</description>
+    </item>
     
     <item>
       <title>Growth-at-Risk IMF Tool</title>
